@@ -26,7 +26,7 @@ namespace tarea1
             //Imprimimos los resultados
             Console.WriteLine("El resultado de el primer valor es: {0}", resultado_1);
 
-            Console.WriteLine("El resultado de la segunda segunda operacion es:{0}", resultado_2);
+            Console.WriteLine("El resultado de la segunda operacion es:{0}", resultado_2);
 
             Console.ReadKey();
 
